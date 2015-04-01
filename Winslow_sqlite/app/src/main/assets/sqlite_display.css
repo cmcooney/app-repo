@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'freesans';
+    src: url('FreeSans.ttf');
+}
+
+body {
+    font-family: 'freesans';
+    font-size: 16pt;
+    background: transparent;
+    }
+
+p2 {
+    display:block;
+    text-indent:2em;
+}
+
+tam {
+    font-weight:700;
+    font-size:110%;
+}
